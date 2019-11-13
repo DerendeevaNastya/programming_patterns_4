@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\derendeeva\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\derendeeva\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Example_04.505423316.00" t="ExcludeRecursive" />
+    <e p="C:\Users\derendeeva\kontur\Example_04-20191113T131136Z-001\Example_04" t="IncludeFlat">
+      <e p="Example_04" t="IncludeRecursive">
+        <e p="Adapters" t="Include">
+          <e p="ClassAdapters" t="Include">
+            <e p="ClassAdapter.cs" t="Include" />
+          </e>
+          <e p="ITarget.cs" t="Include" />
+          <e p="Libs" t="Include">
+            <e p="MathHelper.cs" t="Include" />
+          </e>
+          <e p="ObjectAdapters" t="Include">
+            <e p="ObjectAdapter.cs" t="Include" />
+          </e>
+        </e>
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Composites" t="Include">
+          <e p="Menu.cs" t="Include" />
+        </e>
+        <e p="Example_04.csproj" t="IncludeRecursive" />
+        <e p="Homework" t="Include">
+          <e p="Clients" t="Include">
+            <e p="FirstOrmAdapter.cs" t="Include" />
+            <e p="IOrmAdapter.cs" t="Include" />
+            <e p="SecondOrmAdapter.cs" t="Include" />
+            <e p="UserClient.cs" t="Include" />
+          </e>
+          <e p="FirstOrmLibrary" t="Include">
+            <e p="IFirstOrm.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="DbUserEntity.cs" t="Include" />
+            <e p="DbUserInfoEntity.cs" t="Include" />
+            <e p="Interfaces" t="Include">
+              <e p="IDbEntity.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SecondOrmLibrary" t="Include">
+            <e p="ISecondOrm.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+      </e>
+      <e p="Example_04.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
